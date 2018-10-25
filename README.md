@@ -22,4 +22,4 @@ app.delete('/api/tweet/:id', function (req, res, next) {
 
         })
         
-  That is a sunmary of my project, and what I had to do to build it. Special Thanks to all my insttructors, who helped me along the way.
+  That is a summary of my project, and what I had to do to build it. Special Thanks to all my insttructors, who helped me along the way.
